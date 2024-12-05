@@ -84,8 +84,7 @@ export const SKILLS = {
     "webpack",
     "vite",
     "firebase",
-    "figma",
-    "tanstack-query",
+    "figma",,
   ],
   librariesAndFrameworks: [
     "react",
