@@ -94,11 +94,10 @@ export const SKILLS = {
     "tailwindcss",
     "styledcomponents",
     "antdesign",
-    "chakra-ui",
     "Socket",
   ],
   databases: ["mysql", "mongodb"],
-  other: ["git", "sanity-io"],
+  other: ["git"],
 };
 
 export const PROJECTS = [
