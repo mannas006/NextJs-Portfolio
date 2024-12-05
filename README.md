@@ -1,7 +1,7 @@
 # MadeByManas
 
 <a href="https://shubhporwal.me">
-  <img alt="devfolio" src="./public/Preview.png" />
+  <img alt="MadeByManas" src="./public/Preview.png" />
 </a>
 
 <p>
