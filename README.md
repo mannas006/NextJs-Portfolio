@@ -1,7 +1,7 @@
-# devfolio
+# MadeByManas
 
 <a href="https://shubhporwal.me">
-  <img alt="devfolio" src="./public/preview.png" />
+  <img alt="devfolio" src="./public/Preview.png" />
 </a>
 
 <p>
@@ -14,7 +14,7 @@
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
 
-### ✨ [Live Demo](http://www.shubhporwal.me/)
+### ✨ [Live Demo]()
 
 ## Getting Started
 
