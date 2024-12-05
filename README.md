@@ -1,6 +1,6 @@
 # MadeByManas
 
-<a href="https://shubhporwal.me">
+<a href="https://madebymanas.up.railway.app/">
   <img alt="MadeByManas" src="./public/pip.png" />
 </a>
 
@@ -14,7 +14,7 @@
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
 
-### ✨ [Live Demo]()
+### ✨ [Live Demo](https://madebymanas.up.railway.app/)
 
 ## Getting Started
 
