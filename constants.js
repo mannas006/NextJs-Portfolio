@@ -3,7 +3,7 @@ export const METADATA = {
   title: "Portfolio | Manas Dey",
   description:
     "Manas Dey is a passionate Cloud Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
+  siteUrl: "https://madebymanas.vercel.app/",
   twitterHandle: "@igm_manas",
   keywords: [
     "Manas Dey",

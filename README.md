@@ -1,6 +1,6 @@
 # MadeByManas
 
-<a href="https://madebymanas.up.railway.app/">
+<a href="https://madebymanas.vercel.app/">
   <img alt="MadeByManas" src="./public/pip.png" />
 </a>
 
@@ -14,7 +14,7 @@
 
 👨‍🎓 An eye-catching developer Portfolio, Built on NextJS, GSAP, Tailwind and React
 
-### ✨ [Live Demo](https://madebymanas.up.railway.app/)
+### ✨ [Live Demo](https://madebymanas.vercel.app/)
 
 ## Getting Started
 
