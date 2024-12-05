@@ -3,7 +3,7 @@ export const METADATA = {
   title: "Portfolio | Manas Dey",
   description:
     "Manas Dey is a passionate Cloud Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://madebymanas.up.railway.app/",
+  siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@igm_manas",
   keywords: [
     "Manas Dey",
@@ -15,7 +15,7 @@ export const METADATA = {
     "Folio",
   ].join(", "),
   image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
+    "https://res.cloudinary.com/dcu35avaw/image/upload/v1733413586/fzeox74kk3eu6uyn7lws.png",
   language: "English",
   themeColor: "#000000",
 };
