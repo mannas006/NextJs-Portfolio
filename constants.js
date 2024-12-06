@@ -120,7 +120,7 @@ export const PROJECTS = [
   },
   {
     name: "WebNexaLabs",
-    image: "/projects/webnexa.png",
+    image: "/projects/webn.png",
     blurImage: "/projects/blur/airbnb-blur.webp",
     description: "WebNexaLabs Website Astro + Tailwind CSS 🛏️",
     gradient: ["#000033", "#336699"],
